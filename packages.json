@@ -1,0 +1,35 @@
+{
+  "surveyPlans": [ 
+    {
+      "planName": "Business Basic",
+      "dailySurvey": 5,
+      "monthlyIncome": 8000,
+      "dailyIncome": 500,
+      "minimumWithdrawal": 3000,
+      "earningPerSurvey": "50 - 100",
+      "price": "100"
+    },
+    {
+      "planName": "Business Premium",
+      "dailySurvey": 10,
+      "monthlyIncome": 15000,
+      "dailyIncome": 1000,
+      "minimumWithdrawal": 2500,
+      "earningPerSurvey": "50 - 100",
+      "price": "250"
+    },
+    {
+      "planName": "Business Expert",
+      "dailySurvey": 20,
+      "monthlyIncome": 30000,
+      "dailyIncome": 2000,
+      "minimumWithdrawal": 2000,
+      "earningPerSurvey": "50 - 100",
+      "price": "350"
+    }
+  ],
+  "mpesaPaymentDetails": {
+    "tillName": "KESYTONE SYSTEMS",
+    "tillNumber": 5623435
+  }
+}
